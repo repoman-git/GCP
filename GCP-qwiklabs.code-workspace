@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "/home/repoman/GCP-Challenge-Scripts"
+		},
+		{
+			"name": "gitrepo",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
